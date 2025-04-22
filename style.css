@@ -22,7 +22,8 @@ body {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   text-align: center;
 }
-h1 {
+h1,
+h2 {
   margin-bottom: 20px;
   font-size: 24px;
 }
@@ -31,7 +32,6 @@ h1 {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
-  
 }
 input[type="text"] {
   width: 70%;
